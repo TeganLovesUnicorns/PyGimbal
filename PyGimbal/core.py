@@ -1,0 +1,1 @@
+# PyGimbal (C) 2020 Daniel Rehbein
