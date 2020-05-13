@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This project will interface with a project I am also working on called ArduGimbal. The RaspberryPi 3 B+ will be the main processing and brains for the gimbal. The gimbal as a whole will be user programable to travel and follow points in space that the user choses with a web-based application.
+This project will interface with a project I am also working on called ArduGimbal. The RaspberryPi 3 B+ will be the main processing and brains for the gimbal.  The Arduino will handle all of the sensor and motor controls for the device. The gimbal as a whole will be user programable to travel and follow points in space that the user choses with a web-based application.
 
 ## Required Features
 
